@@ -23,7 +23,7 @@ module.exports = {
       lightyellow: '#F5C84E',
       yellow: '#F1B101',
       orange: '#FAAC40',
-      lightpurple: '#7D8AB6',
+      lightpurple: '#6E7FBB',
       black: colors.black,
       white: colors.white,
       gray: colors.coolGray,
